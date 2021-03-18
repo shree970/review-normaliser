@@ -2,7 +2,7 @@
 
 Always a relevant XKCD
 
-[xkcd](https://github.com/shree970/review-normaliser/blob/main/images/xkcd.png) 
+![xkcd](https://github.com/shree970/review-normaliser/blob/main/images/xkcd.png) 
 
 There is very well know issue with 5 star review systems, better visually discribed as J distribution.
 
