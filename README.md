@@ -16,4 +16,4 @@ Therefore a 'Normal' distribution is more preferred, and is inherently natural.
 
 ![gaussian-shaped](https://github.com/shree970/review-normaliser/blob/main/images/normal.png)
 
-In this project, we try to make a tool bar that automaticaly calculates the "Normalness" of reviews.
+In this project, we try to make a tool bar that automaticaly scores the "Normalness" of reviews.
