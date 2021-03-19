@@ -16,4 +16,12 @@ Therefore a 'Normal' distribution is more preferred, and is inherently natural.
 
 ![gaussian-shaped](https://github.com/shree970/review-normaliser/blob/main/images/normal.png)
 
-In this project, we try to make a tool bar that automaticaly scores the "Normalness" of reviews.
+In this project, we try to make a tool bar that automaticaly scores the "Normalness" of reviews.  
+
+References: 
+
+[The Problem of J-Curves (in Online Ratings Systems)](https://levelup.gitconnected.com/the-problem-of-j-curves-in-online-ratings-systems-caf94fab4819)
+
+[The Problem with 5 Star Rating Methods](https://teamhively.com/638-the-problem-with-5-star-rating-methods)
+
+[This paper](https://www.researchgate.net/publication/228604596_Why_Do_Online_Product_Reviews_Have_a_J-Shaped_Distribution_Overcoming_Biases_in_Online_Word-of-Mouth_Communication )
