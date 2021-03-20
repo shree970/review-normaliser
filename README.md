@@ -24,4 +24,5 @@ References:
 
 [The Problem with 5 Star Rating Methods](https://teamhively.com/638-the-problem-with-5-star-rating-methods)
 
+[http://www.lifewithalacrity.com/2006/08/using_5star_rat.html](http://www.lifewithalacrity.com/2006/08/using_5star_rat.html)
 [This paper](https://www.researchgate.net/publication/228604596_Why_Do_Online_Product_Reviews_Have_a_J-Shaped_Distribution_Overcoming_Biases_in_Online_Word-of-Mouth_Communication )
